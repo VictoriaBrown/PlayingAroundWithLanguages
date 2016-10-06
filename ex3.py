@@ -1,3 +1,8 @@
+# Program to see simple math in Python language.
+# Programmer:           Victoria Brown
+# Date:                 October 2016
+
+
 print "I will now count my chickens:"
 
 # Count the hens.
