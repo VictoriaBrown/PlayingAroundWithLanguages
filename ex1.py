@@ -1,3 +1,9 @@
+# Simple program to see prints in Python language.
+# Programmer:           Victoria Brown
+# Date:                 October 2016
+
+
+
 print "Hello World!"
 # print "Hello Again"
 # print "I like typing this."
