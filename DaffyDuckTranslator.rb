@@ -27,3 +27,4 @@ elsif user_input.include? "sc"
 # no more options! there were no s's in string
 else
     puts "You didn't enter any s's in string! There was nothing to change."
+end
