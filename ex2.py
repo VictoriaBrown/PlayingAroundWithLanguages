@@ -1,3 +1,9 @@
+# Simple program to see comments in Python language.
+# Programmer:           Victoria Brown
+# Date:                 October 2016
+
+
+
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.
 
